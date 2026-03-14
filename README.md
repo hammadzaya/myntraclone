@@ -11,13 +11,12 @@ To run the Myntra clone project, follow these steps:
 2-> Install the dependencies.
 3-> Start the server.
 
-**Images of Project**
+🖥️ Project Screenshots
+🏠 Homepage
 
-**HOMEPAGE** 
-This is the homepage , in this homepage we have a navigation bar, on clicking any option on the navigation bar it will navigate to the others pages on websites.
+The homepage contains a navigation bar that allows users to browse different sections like Men, Women, and Home Living.
+![Homepages]./
 
-
-![image](https://user-images.githubusercontent.com/77974484/161418508-820faf68-9cea-4570-9fe5-6fe50085a908.png)
 
 **Outer and inner Men’s page**
 
