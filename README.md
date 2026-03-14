@@ -24,7 +24,7 @@ The homepage contains a navigation bar that allows users to browse different sec
 Outer Men's Page
 Displays different brands and categories of men's clothing and accessories.
 
-![MensPage](common-Files/image/Outer's-Men's-Page.png)
+![MensPage](Common-Files/image/Outer's-Men's-Page.png)
 
 Inner Men's Page
 After clicking a brand, the user is redirected to the product listing page where they can:
@@ -34,7 +34,7 @@ Add items to Bag
 Apply filters
 Sort products by price or brand
 
-![MensPage](common-Files/image/Inner's-Men's-Page.png)
+![MensPage](Common-Files/image/Inner's-Men's-Page.png)
 
 👗 Women's Section
 
