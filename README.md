@@ -14,15 +14,17 @@ To run the Myntra clone project, follow these steps:
 🖥️ Project Screenshots
 
 🏠 Homepage
+
 The homepage contains a navigation bar that allows users to browse different sections like Men, Women, and Home Living.
 
 ![Homepage](Common-Files/image/Homepage.png)
 
 👔 Men's Section
+
 Outer Men's Page
 Displays different brands and categories of men's clothing and accessories.
 
-![Menspage](common-Files/image/Outer's-Men's-Page.png)
+![MensPage](common-Files/image/Outer's-Men's-Page.png)
 
 Inner Men's Page
 After clicking a brand, the user is redirected to the product listing page where they can:
@@ -32,9 +34,10 @@ Add items to Bag
 Apply filters
 Sort products by price or brand
 
-![Menspage](common-Files/image/Inner's-Men's-Page.png)
+![MensPage](common-Files/image/Inner's-Men's-Page.png)
 
 👗 Women's Section
+
 Outer Women's Page
 Displays brands and categories for women's fashion products.
 
@@ -57,18 +60,21 @@ Users can browse products and add them to their bag or wishlist.
 ![Homepage](Common-Files/image/Home&Living-Page.png)
 
 ❤️ Wishlist Page
+
 The Wishlist page shows all the products saved by the user.
 Users can move items from wishlist to bag.
 
 ![Homepage](Common-Files/image/Wishlist-Page.png)
 
 🔐 Login or SignUp Page.
+
 Users can login or sign up using their credentials.
 Authentication checks if the email and password match existing data.
 
 ![ProfilePage](Common-Files/image/Login-Page.png)
 
 💳 Payment Page
+
 After placing an order, users are redirected to the payment page.
 
 Payment methods include:
@@ -79,6 +85,7 @@ Credit Card
 ![Paymentpage](Common-Files/image/Paymentpage.png)
 
 📦 Order Confirmation Page
+
 Once the payment method is selected and the order is placed successfully, the user is redirected to the Order Confirmation Page.
 
 ![Paymentpage](Common-Files/image/Order-confirmation-page.png)
